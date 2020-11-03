@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520123945330",
+    "firebase_url": "https://frongkorakot.firebaseio.com",
+    "project_id": "frongkorakot",
+    "storage_bucket": "frongkorakot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520123945330:android:7be9ee75329e1ad2ab0deb",
+        "android_client_info": {
+          "package_name": "com.example.appfrong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520123945330-vu6ab4n255mhe6p3a3e412fho5l61tld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALv-3qYrkIMRHJZshHO8fAMto63RGEYMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520123945330-vu6ab4n255mhe6p3a3e412fho5l61tld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
